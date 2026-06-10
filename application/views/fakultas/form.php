@@ -64,7 +64,7 @@
 						</button>
 
 						<a href="<?php echo base_url('fakultas') ?>" class="btn btn-secondary">
-							Batal
+							Cancel
 						</a>
 					</div>
 
